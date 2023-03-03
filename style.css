@@ -1,0 +1,43 @@
+/*notice*/
+
+.notice {
+	width: 1100px;
+	margin: auto;
+	background: #033149;
+	margin-top: 30px;
+}
+
+/*제목부분*/
+.title {
+	overflow: hidden;
+	padding: 10px 10px;
+	border-bottom: 1px solid white;
+}
+
+.title_in {
+	float: left;
+	color: white;
+	font-size: 20px;
+	font-family: 'Oswald'
+}
+
+.plus {
+	float: right;
+	margin-right: 10px;
+}
+
+.text_info {
+	padding: 10px;
+	background: #f9f9f9;
+	display: none;
+}
+
+
+/*+모양 회전관련 속성. 요부분은 반드시 복사해서 가져가세요~*/
+.turn .title img {
+	transform: rotate(45deg);
+}
+
+.plus img {
+	transition: transform 0.5s;
+}

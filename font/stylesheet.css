@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'HelveticaNeueLT Com 67 MdCn';
+    src: url('HelveticaNeueLTCom-HvCn.eot');
+    src: url('HelveticaNeueLTCom-HvCn.eot?#iefix') format('embedded-opentype'),
+        url('HelveticaNeueLTCom-HvCn.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+

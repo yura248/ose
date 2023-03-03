@@ -53,6 +53,7 @@ body {
     font-size: 26px;
     line-height: 35px;
     color: #000;
+    min-width:1450px;
 }
 
 .clearfix::after {
